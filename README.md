@@ -3,6 +3,8 @@
 ## Project Overview
 The Baptiste Farm Ecommerce Platform is a web application designed to facilitate the online sale of products produced by Baptiste Farm. These products include baby chickens, Tilapia fingerlings, and Italian honey bee nucs. The platform is built using Magento for backend ecommerce functionalities and React for the frontend user interface, all hosted on AWS for scalability and reliability.
 
+![Diagram](sandbox:https://i.ibb.co/X7vvwWd/Screenshot-2024-06-23-163907.png)
+
 ## Features
 ### User Authentication
 - **User Registration**: Users can create an account to shop and track orders.
@@ -83,6 +85,3 @@ Contributions are welcome! Please fork the repository and submit pull requests f
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contact
-For any inquiries or support, please contact [your email].
